@@ -1,0 +1,8 @@
+name = input('enter a name')
+family = input('enter a family member')
+food = input('enter a food item')
+abs = input('enter an abstract noun')
+body = input('enter a body part')
+gerund = input('enter a gerund')
+verbt = input('enter a gerund')
+print(''+name+''+name+'\n'+'yes'+family+'\n'+gerund+''+food+'\n'+'no'+family+'\n'+verbt+''+abs+'\n no '+family+ 'open your '+body+' ha ha ha!')
